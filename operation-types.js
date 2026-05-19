@@ -9,9 +9,7 @@ let number1 = 20;
 let number2 = 30;
 
 console.log(number1);
-console.log(number1);
 
-console.log(number2);
 console.log(number2);
 
 let stringNumOne = String(number1);
